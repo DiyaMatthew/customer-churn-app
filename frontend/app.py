@@ -11,7 +11,7 @@ import plotly.graph_objects as go
 from io import StringIO
 
 # ── Config ────────────────────────────────────────────────────────────────────
-API_URL = "http://localhost:8000"   # Docker service name; change to localhost for local dev
+API_URL = "http://api:8000"   # Docker service name; change to localhost for local dev
 
 st.set_page_config(
     page_title = "Customer Intelligence Platform",
