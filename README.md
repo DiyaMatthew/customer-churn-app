@@ -181,6 +181,6 @@ streamlit run frontend/app.py
 
 ## 👤 Author
 
-Built by **[Your Name]** · [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
+Built by **Diya Mathew** · [LinkedIn](https://www.linkedin.com/in/diya-mathew/) · [GitHub](https://github.com/DiyaMatthew)
 
 *Targeting AI Engineer roles | Python · MLOps · FastAPI · Docker*
